@@ -1,6 +1,6 @@
 # Object Detection API
 
-Quick and dirty cobbled object detector using yad2k and putting it in a python flask application.  
+Quick and dirty cobbled object detector using [yad2k](https://github.com/allanzelener/YAD2K) and putting it in a python flask application.  
 
 ## Usage
 
